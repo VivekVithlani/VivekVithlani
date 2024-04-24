@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # Vivek Vithalani
 
 📱 Project Manager Mobile Application | 🚀 10+ Years of Experience | 🌟 Freelancer (Standalone Programmer)
