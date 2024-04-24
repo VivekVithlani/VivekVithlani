@@ -10,7 +10,7 @@
 
 🛍️ **App Store Approval:** Approved over 40 apps on the iOS App Store and Google Play Store (Additional apps hosted on clients' private servers).
 
-📱 **Odoo Expertise:** Developed 15+ Odoo Mobile Apps (Odoo, an Open Source ERP System).
+📱 **Odoo Expertise:** Developed 15+ Odoo Mobile Apps (Open Source ERP System).
 
 
 🎓 **Proficient in 8 programming languages:**
