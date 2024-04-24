@@ -4,7 +4,7 @@
 
 ---
 
-🚀 **Experience:** 10+ years of experience in mobile application development.
+🚀 **Experience:** 10+ years of experience in mobile application.
 
 📱 **Projects:** Successfully delivered 50+ mobile apps.
 
