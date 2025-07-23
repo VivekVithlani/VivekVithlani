@@ -69,4 +69,4 @@ From **cross-platform mobile apps** to **AI Agent-powered Odoo integrations**, I
 ### 📫 Contact
 
 📧 Email: [vivek.vithlani.v@gmail.com](mailto:vivek.vithlani.v@gmail.com)  
-🔗 LinkedIn: [www.linkedin.com/in/vivek-vithalani-ba7b0848](www.linkedin.com/in/vivek-vithalani-ba7b0848)  
+🔗 LinkedIn: [www.linkedin.com/in/vivek-vithalani-ba7b0848](www.linkedin.com/in/vivek-vithalani-ba7b0848)
